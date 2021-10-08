@@ -1,0 +1,5 @@
+lxml==4.6.3
+PDFNetPython3==9.1.0
+pikepdf==3.1.1
+Pillow==8.3.2
+PyMuPDF==1.18.19
